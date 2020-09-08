@@ -1,3 +1,5 @@
+// copyright 2020 Armin Straller
+
 class tinyFlyer {
     constructor(weight, maxF, maxWingAngleX, maxWingAngleY, centerOfGravity, wingLength, wingHeight, wingPivotMargin, bodyThickness, bodyHeight, bodyWidth, drawCoordSys = false) {
         this._wingLength = wingLength;
